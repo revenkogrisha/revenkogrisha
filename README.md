@@ -14,6 +14,7 @@ My name is **Gregory**, I'm a Game Developer. Started my journey in **November 2
 ![OpenAI](https://img.shields.io/badge/-chatgpt-090909?style=for-the-badge&logo=openai)
 
 ## My games 🎮
+[![CapybaraWorld](https://img.shields.io/badge/-Capybara!_Treasure_World-090909?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.Revenko.org.CapybaraTreasureWorld)
 [![CapybaraAdventure](https://img.shields.io/badge/-Capybara_Adventure-090909?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.Revenko.org.CapybaraAdventure)
 [![Ghosty2D](https://img.shields.io/badge/-Ghosty:_2D_Platformer-090909?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.Revenko.org.Ghosty2D)
 

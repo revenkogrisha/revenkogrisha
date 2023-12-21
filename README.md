@@ -8,6 +8,7 @@ My name is **Gregory**, I'm a Game Developer. Started my journey in **November 2
 ## Skills 🍳
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=purple)
+![AndroidStudio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=Androidstudio)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-090909?style=for-the-badge&logo=adobeillustrator)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro)
